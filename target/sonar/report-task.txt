@@ -1,0 +1,6 @@
+projectKey=nl.fhict.s3:SE3Seabattle
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/nl.fhict.s3:SE3Seabattle
+ceTaskId=AWLXiWjnbUXFh0pXVRIc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWLXiWjnbUXFh0pXVRIc
